@@ -76,6 +76,4 @@ class IA(object):
             return value, worstCase
 
     def getTurn(self, board) :
-        a = self.Minimax(board, True)
-        print(a[0])
-        return a[1] + 1
+        return self.Minimax(board, True)[1]

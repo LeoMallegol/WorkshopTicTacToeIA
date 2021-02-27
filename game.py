@@ -36,7 +36,7 @@ class Game(object):
         self._board[play - 1] = self._turn + 1
 
     def IATurn(self) :
-        play = self._ia.getTurn(self._board)
+        play = self._ia.getTurn(self._board) + 1
         print("The IA plays at the case %i" %play)
         self._board[play - 1] = self._turn + 1
 
