@@ -12,10 +12,6 @@ python3 main.py
 
 and follow the instructions.
 
-## For the first Workshop
+## For the Workshop
 
-You have to complete the Minimax function in the file ia.py .
-
-## For the second Workshop
-
-You have to complete the evaluateBoard function in the file ia.py .
+You have to complete the Minimax and the evaluateBoard functions in the file ia.py 
