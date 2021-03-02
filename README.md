@@ -10,7 +10,7 @@ To run the program, execute the following command :
 
 python3 main.py
 
-and follows instructions.
+and follow the instructions.
 
 ## For the first Workshop
 
