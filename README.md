@@ -6,7 +6,7 @@ To make the workshop, you will need [python 3.9](https://www.python.org/download
 
 ## Run
 
-To run the programm, execute the following command :
+To run the program, execute the following command :
 
 python3 main.py
 
