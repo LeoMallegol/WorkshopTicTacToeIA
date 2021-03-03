@@ -2,7 +2,7 @@
 
 ## Requirements
 
-To make the workshop, you will need [python 3.9](https://www.python.org/downloads/).
+To make the workshop, you will need [python 3](https://www.python.org/downloads/).
 
 ## Run
 
