@@ -1,6 +1,7 @@
 class IA(object):
 
     def __init__(self):
+        #N'est pas nécessaire de le modifier. 
         pass
 
     def evaluateBoard(self, board) :
